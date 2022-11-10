@@ -1,10 +1,10 @@
-# Critter & Guitari Microphone Manual
+# Critter & Guitari® Microphone Manual
 
 ![](images/1.png)
 
 ©2022 Critter & Guitari. All Rights Reserved.
 
-Thank you for getting a **Critter & Guitari Microphone** This is the place to begin on your journey to capturing sounds.
+Thank you for getting a **Critter & Guitari® Microphone** This is the place to begin on your journey to capturing sounds.
 
 > Warning: As with all microphones, this mic is may generate 'feedback' if pointed at an amplified speaker which is amplifying the output of the microphone. **Please take care to avoid feedback and thus protecting your hearing! Safety first!**
 
@@ -12,16 +12,21 @@ Thank you for getting a **Critter & Guitari Microphone** This is the place to be
 
 ##### Ins & Outs:
 
+![](images/3a.png)
+
 1. The `Electret Microphone Capsule` is a monophonic input. It transduces sound pressure waves from the air into an electric signal. The capsule cannot be seen directly - the black felt covering the capsule can be seen through a hole in the front of the enclosure. 
 2. `Output Jack`. A black monophonic 1/4" output jack can be found on the end opposite the microphone capsule.
-3. `Power Input` A size *2032* coin cell battery provides power.
+3. `Power` A size *2032* coin cell battery provides power.
 
 ##### Controls:
+
+![](images/2a.png)
+
 1. `Power switch` The mic can be powered on by moving the switch to the 'front' position (towards the felted mic capsule). The 'off' position is towards the 1/4" jack.
 
 2. `Gain Range Selector Switch` Setting this switch position towards the 1/4" jack selects 'low' gain range. Moving this switch towards the felted mic capsule selects the 'high' gain range.  
 
-3. `Fine Gain Adjustment` This potentiometer fine tunes the gain and is used in both gain ranges
+3. `Fine Gain Adjustment` This potentiometer fine tunes the gain and is used in both gain ranges.
 
 ##### Hardware Connections:
 
@@ -31,9 +36,10 @@ Thank you for getting a **Critter & Guitari Microphone** This is the place to be
 ## How to Use:
 1. **Before operating, remove the paper tab from underneath the battery.**
 2. Situate the microphone on a mic stand or other device. Loosening the thumb screw in the mic stand allows for the stand to pivot. Be sure to tighten it again!
-3. Connect a cable with 1/4" plug to the mic's 1/4" jack and to the subsequent device in your signal chain (mixer, recorder, pedals, etc.)
+3. Connect a monophonic cable with a 1/4" plug to the mic's 1/4" jack and to the subsequent device in your signal chain (mixer, recorder, pedals, etc.)
 4. Ready to capture sound! Basic rule of thumb: start with the **low gain range** selected and with the fine tune adjustment potentiometer set to low (turned left). Increase gain pot until your sound is heard at an agreeable level. If it isn’t, turn potentiometer down (to left) and switch range to High. Then slowly increase pot…
 
 **Replacing battery**: use the square hole opposite battery slot and a paper clip (or similar tool) to push battery out.
 Be sure to turn mic off to save battery life!
 
+	
