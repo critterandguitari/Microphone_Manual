@@ -15,7 +15,7 @@ Thank you for getting a **Critter & Guitari® Microphone** This is the place to 
 ![](images/3a.png)
 
 1. The `Electret Microphone Capsule` is a monophonic input. It transduces sound pressure waves from the air into an electric signal. The capsule cannot be seen directly - the black felt covering the capsule can be seen through a hole in the front of the enclosure. It has an omnidirectional pickup pattern.
-2. `Output Jack`. A black monophonic 1/4" output jack can be found on the end opposite the microphone capsule.
+2. `Output Jack`. A black monophonic 1/4" output jack can be found on the end opposite the microphone capsule. This jack has a TS (tip/sleeve) connection for an unbalanced signal.
 3. `Power` A size *2032* coin cell battery provides power.
 
 ##### Controls:
