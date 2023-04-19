@@ -16,7 +16,7 @@ Thank you for getting a **Critter & Guitari® Microphone** This is the place to 
 
 1. The `Electret Microphone Capsule` is a monophonic input. It transduces sound pressure waves from the air into an electric signal. The capsule cannot be seen directly - the black felt covering the capsule can be seen through a hole in the front of the enclosure. It has an omnidirectional pickup pattern.
 2. `Output Jack`. A black monophonic 1/4" output jack can be found on the end opposite the microphone capsule. This jack has a TS (tip/sleeve) connection for an unbalanced signal.
-3. `Battery`. One *2032* coin cell battery provides power.
+3. `Battery`. One *2032* coin cell battery provides power. The *+* (positive) side of the battery faces up. 
 
 ##### Controls:
 
@@ -40,6 +40,7 @@ Thank you for getting a **Critter & Guitari® Microphone** This is the place to 
 4. Ready to capture sound! Basic rule of thumb: start with the **low gain range** selected and with the fine tune adjustment potentiometer set to low (turned left). Increase gain pot until your sound is heard at an agreeable level. If it isn’t, turn potentiometer down (to left) and switch range to High. Then slowly increase pot…
 
 **Replacing battery**: use the square hole opposite battery slot and a paper clip (or similar tool) to push battery out.
+The *+* (positive) side of the battery faces up. 
 Be sure to turn mic off to save battery life!
 
 	
